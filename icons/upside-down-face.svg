@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Icons" x="0" y="0" version="1.1" viewBox="0 0 48 48">
+    <circle cx="24" cy="21.5" r="20" fill="#ffe500"/>
+    <path fill="#ebcb00" d="M24 1.5c-11 0-20 9-20 20s9 20 20 20 20-9 20-20-9-20-20-20zm0 37c-10.1 0-18.2-8.2-18.2-18.2C5.8 10.2 13.9 2 24 2s18.2 8.2 18.2 18.2c0 10.1-8.1 18.3-18.2 18.3z"/>
+    <ellipse cx="24" cy="5.5" fill="#fff48c" rx="6" ry="1.5"/>
+    <ellipse cx="24" cy="45.5" fill="#45413c" opacity=".15" rx="16" ry="1.5"/>
+    <circle cx="24" cy="21.5" r="20" fill="none" stroke="#45413c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path fill="none" stroke="#45413c" stroke-linecap="round" stroke-miterlimit="10" d="M19 13.5c1.4-1 3.2-1.5 5-1.5 1.8 0 3.6.6 5 1.5"/>
+    <circle cx="34.5" cy="22.3" r="1" class="st11" fill = "#45413c" stroke="#45413c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+    <circle cx="13.5" cy="22.3" r="1" class="st11" fill = "#45413c" stroke="#45413c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+    <ellipse cx="12" cy="16.2" class="st5" fill="#ffaa54" rx="2.5" ry="1.5"/>
+    <ellipse cx="36" cy="16.2" class="st5" fill="#ffaa54" rx="2.5" ry="1.5"/>
+</svg>
